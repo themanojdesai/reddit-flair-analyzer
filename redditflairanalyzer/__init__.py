@@ -5,9 +5,9 @@ This package helps content creators, marketers, and researchers understand which
 perform best in specific subreddits, with comprehensive analytics and visualizations.
 """
 
-__version__ = "1.0.0"
-__author__ = "Your Name"
-__email__ = "your.email@example.com"
+__version__ = "1.0.1"
+__author__ = "Manoj Desai"
+__email__ = "themanojdesai@gmail.com"
 
 import logging
 from .logger import setup_logger

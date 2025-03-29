@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="reddit-flair-analyzer",
-    version="1.0.0",
+    version="1.0.1",
     author="Manoj Desai",
     author_email="themanojdesai@gmail.com",  # Use your actual email
     description="A professional tool for analyzing which Reddit post flairs have the highest chance of going viral",
